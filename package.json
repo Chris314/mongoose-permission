@@ -17,7 +17,7 @@
         "revoke",
         "schema"
     ],
-    "author": "Sylvain Aubert",
+    "author": "Sylvain",
     "license": "GPL-3.0",
     "bugs": {
         "url": "https://github.com/Chris314/mongoose-permission/issues"
