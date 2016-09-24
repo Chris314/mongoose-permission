@@ -15,7 +15,7 @@
         "permissions",
         "grant",
         "revoke",
-        "schema"
+        "user management"
     ],
     "author": "Sylvain",
     "license": "GPL-3.0",
