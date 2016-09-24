@@ -1,0 +1,30 @@
+{
+    "name": "mongoose-permission",
+    "version": "1.0.0",
+    "description": "Add permission functionnality to a mongoose schema",
+    "main": "index.js",
+    "scripts": {
+        "test": "./node_modules/.bin/mocha --reporter spec"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/Chris314/mongoose-permission.git"
+    },
+    "keywords": [
+        "mongoose",
+        "permissions",
+        "grant",
+        "revoke",
+        "schema"
+    ],
+    "author": "Sylvain Aubert",
+    "license": "GPL-3.0",
+    "bugs": {
+        "url": "https://github.com/Chris314/mongoose-permission/issues"
+    },
+    "homepage": "https://github.com/Chris314/mongoose-permission#readme",
+    "devDependencies": {
+        "chai": "~3.5.0",
+        "mongoose": "~4.6.1"
+    }
+}
